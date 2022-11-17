@@ -26,8 +26,6 @@ Skills: C++ / JS / HTML / CSS / C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PingRooted&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PingRooted)  
-
 ![GitHub metrics](https://metrics.lecoq.io/PingRooted)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PingRooted)  
